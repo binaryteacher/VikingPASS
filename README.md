@@ -28,7 +28,7 @@ making sure the answer sheet guide squares are aligned with the onscreen red squ
 
 Press the 'f' key to toggle face detection ... 
 
-    (with face detection on, a test will not scan if a face is not detected near the oval)
+(with face detection on, a test will not scan if a face is not detected near the oval)
 
 Press the 'a' key to display the animation tutorial to aid in guiding the answer sheet.
 
