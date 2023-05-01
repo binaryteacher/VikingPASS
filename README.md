@@ -1,9 +1,9 @@
 # VikingPASS
 PASS _ Portable Answer Sheet Scanner
-
+version beta2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-VikingPASS currently (version beta1) will only work with the 50 question, one page answer sheet.
+VikingPASS  will only work with the 50 question, one page answer sheet.
 (although it will scan any sheet from 1 to 50 questions)
 A pdf of the answer sheet to be used is provided as well as a png file.
 You are welcome to modify the logo at the upper right of the answer sheet.
@@ -17,8 +17,6 @@ The file name should remain logo150x150.png
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Running VikingPASS:
-
-Launch VikingPASS.exe (for advanced users: run the the Python file)
 
 It is recommended you paste your answer key from a single spreadsheet column of any length 1 to 50 
 where each cell contains the letters A thru E for the answer to each question of the test to be scanned.
