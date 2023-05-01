@@ -14,7 +14,7 @@ ANY OTHER MODIFICATIONS to the png could cause errors with the scanning process.
 You are also free to replace the logo150x150.png with a 150x150 png from your school.
 The file name should remain logo150x150.png
 
-# Running VikingPASS:
+### Running VikingPASS:
 
 It is recommended you paste your answer key from a single spreadsheet column of any length 1 to 50 
 where each cell contains the letters A thru E for the answer to each question of the test to be scanned.
@@ -24,7 +24,9 @@ Click submit and begin scanning tests.
 For best results, have your face in the oval and manuever the test into the red rectangle 
 making sure the answer sheet guide squares are aligned with the onscreen red squares.
 
-Press the 'f' key to toggle face detection ... 
+### key actions:
+
+the 'f' key to toggle face detection ... 
 
 (with face detection on, a test will not scan if a face is not detected near the oval)
 
